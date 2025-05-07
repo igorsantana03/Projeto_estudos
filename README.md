@@ -1,6 +1,6 @@
 # Projeto_estudos
 Estudos
-teste
+testes
 
 nome = input('Por favor, digite o seu nome: ') # String
 idade = int(input('Agora, digite a sua idade: ')) # Integer
